@@ -1,5 +1,5 @@
 const API_BASE_URL = "https://backend-movies-vv0z.onrender.com";
-  process.env.REACT_APP_API_BASE_URL || "http://localhost:5001";
+  
 
 /**
  * Defines the default headers for these functions to work with `json-server`
